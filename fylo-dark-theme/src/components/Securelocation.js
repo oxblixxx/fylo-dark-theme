@@ -1,10 +1,15 @@
 import './Securelocation.css'
+import Securelocationtext from './Securelocationtext'
 
 
-function Securelocation(props) {
-  const text = props.text
-  const newText = text.split('\n').map(str => <p>{str}</p>)
-    return newText
+function Securelocation(){
+    return(
+        <div className='Secure-location-text text-white'>
+            <Securelocationtext text={"All your files in one secure location,\n accessible anywhere"}/>
+        </div>
+    )
 }
+
+
 
 export default Securelocation;
