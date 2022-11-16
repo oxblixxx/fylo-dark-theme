@@ -8,7 +8,7 @@ function App() {
     <div className='container'>
       <Header />
       <Navimage />
-      <Securelocation />
+      <Securelocation text={"All your files in one secure location,\n accessible anywhere"}/>
       
     </div>
   )
