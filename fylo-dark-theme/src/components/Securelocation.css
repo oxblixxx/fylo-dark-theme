@@ -1,9 +1,8 @@
 .Secure-location-text{
     position: relative;
     line-height: 50px;
-    top: 26em;
+    top: 25em;
     font-family: var(--raleway);
-    left: 5em;
+    left: 8em;
     font-size: 40px;
-    /* font-weight: 700;    */
 }
