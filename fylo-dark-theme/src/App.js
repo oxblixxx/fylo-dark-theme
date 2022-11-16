@@ -1,11 +1,11 @@
 import './App.css'
-import Navbar from './components/Navbar'
+import Header from './components/Header'
 import Navimage from "./components/Navimage"
 
 function App() {
   return (
     <div className='container'>
-      <Navbar />
+      <Header />
       <Navimage />
     </div>
   )
