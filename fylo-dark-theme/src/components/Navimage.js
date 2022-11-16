@@ -3,7 +3,9 @@ import Introimage from '../images/illustration-intro.png'
 
 function Navimage() {
     return(
-        <img className='center' src={Introimage} alt="" />
+     <nav className='mt-10' >
+         <img src={Introimage} alt="" />
+     </nav>
     )
 }
 
