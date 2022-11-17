@@ -1,5 +1,4 @@
 import './Securelocation.css'
-import Securelocationtext from './Securelocationtext'
 
 function Securelocation(){
     return(
