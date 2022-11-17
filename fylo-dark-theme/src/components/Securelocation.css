@@ -10,9 +10,10 @@
 .accessible-text{
     position: relative;
     line-height: 50px;
-    top: 25em;
+    top: 30em;
     font-family: var(--raleway);
     left: 8em;
     font-size: 40px;
+
    
 }
