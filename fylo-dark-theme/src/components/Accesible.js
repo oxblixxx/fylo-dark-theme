@@ -1,11 +1,11 @@
 import './Securelocation.css'
 
-function Accessible (props){
-    const text = props.text
-    const newText = text.innerhtml(str => <p>{str}</p>)
-    return{
-        newText
-    }
+function Accessible (){
+    return(
+        <section className="">
+            <p>accessible anywhere</p>
+        </section>
+    )
 }
 
 export default Accessible;
