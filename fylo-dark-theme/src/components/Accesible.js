@@ -1,6 +1,11 @@
 import './Securelocation.css'
 
-function Accesible (){
-    const text = text.split('n')
-    return
+function Accessible (){
+    const text = props.text
+    const newText = text.innerhtml(str => <p>{str}</p>)
+    return{
+        newText
+    }
 }
+
+export default Accessible;
