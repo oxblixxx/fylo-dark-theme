@@ -1,4 +1,5 @@
 import './App.css'
+import Button from './components/Button'
 // import Accessible from './components/Accessible'
 import Fylodesc from './components/Fylodesc'
 // import Fylostoredesc from './components/Fylostoredesc'
@@ -14,6 +15,7 @@ function App() {
       <Navimage />
       <Securelocation />
       <Fylodesc />
+      <Button />
 
     </div>
   )
