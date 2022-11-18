@@ -1,9 +1,11 @@
-function Button(){
-    return(
-        <button className="btn is-rounded">
-            <p>Gret Started</p>
-        </button>
-    )
+import './Button.css'
+
+function Button(props) {
+  return (
+    <button className="default-btn bg-red-900  w-60 h-16">
+      <p>{props.text}</p>
+    </button>
+  )
 }
 
-export default Button;
+export default Button
