@@ -3,7 +3,11 @@ import './Getstartedbtn.css'
 
 function Getstartedbtn() {
   const description = 'Get started'
-  return <Button text={description} />
+  return (
+    <div className="get-started-btn relative ">
+      <Button text={description} />
+    </div>
+  )
 }
 
 export default Getstartedbtn
