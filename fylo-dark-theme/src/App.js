@@ -1,5 +1,6 @@
 import './App.css'
 import Fylodesc from './components/Fylodesc'
+import Fylouses from './components/Fylouses'
 import Getstartedbtn from './components/Getstartedbtn'
 import Header from './components/Header'
 import Navimage from "./components/Navimage"
@@ -13,6 +14,7 @@ function App() {
       <Securelocation />
       <Fylodesc />
       <Getstartedbtn />
+      <Fylouses />
 
     </div>
   )

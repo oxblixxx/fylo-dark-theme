@@ -1,0 +1,17 @@
+.fylo-uses{
+    font-family: var(--sans);
+    line-height: 30px;
+    top: 54em;
+    position: relative;
+}
+
+h1{
+    font-family: var(--raleway);
+    font-weight: 700;
+}
+
+
+.fylo-uses-text{
+    font-weight: 400;
+    font-size: 14px;
+}
