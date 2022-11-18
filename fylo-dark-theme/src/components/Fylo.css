@@ -1,0 +1,19 @@
+.fyloStoresDesc{
+    position: relative;
+    line-height: 50px;
+    top: 53em;
+    font-family: var(--sans);
+    left: 18.7em;
+    font-size: 20px;
+    font-weight: 500;  
+}
+
+.accessThem{
+    position: relative;
+    left: 12px;
+}
+
+.friendsFamily{
+    position: relative;
+    left: 150px;
+}

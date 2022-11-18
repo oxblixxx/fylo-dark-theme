@@ -2,11 +2,10 @@ import './Securelocation.css'
 
 function Securelocation(){
     return(
-        <div className='Secure-location-text text-white'>
-            <p>
-            All your files in one secure location,
-            </p>
-        </div>
+        <section className='secureLocationDesc text-white'>
+            <p className="secureLocation"> All your files in one secure location,</p>
+            <p className="accessible">accessible anywhere</p>
+        </section>
     )
 }
 
