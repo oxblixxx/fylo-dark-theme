@@ -1,6 +1,6 @@
 import './App.css'
 // import Accessible from './components/Accessible'
-import Fylo from './components/Fylo'
+import Fylodesc from './components/Fylodesc'
 // import Fylostoredesc from './components/Fylostoredesc'
 import Header from './components/Header'
 import Navimage from "./components/Navimage"
@@ -12,10 +12,8 @@ function App() {
     <div className='container'>
       <Header />
       <Navimage />
-      <Securelocation />s
-      {/* <Accessible /> */}
-      {/* <Fylostoredesc text = {FYLO}/> */}
-      <Fylo />
+      <Securelocation />
+      <Fylodesc />
 
     </div>
   )

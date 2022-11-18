@@ -1,6 +1,6 @@
-import './Fylo.css'
+import './Fylodesc.css'
 
-function Fylo(){
+function Fylodesc(){
     return(
         <section className="fyloStoresDesc text-white ">
             <p className="fyloStores">Fylo stores all your most important files in one secure location.</p>
@@ -11,4 +11,4 @@ function Fylo(){
 }
 
 
-export default Fylo;
+export default Fylodesc;
