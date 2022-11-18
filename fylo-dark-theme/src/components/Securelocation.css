@@ -1,7 +1,7 @@
 .secureLocationDesc{
     position: relative;
-    line-height: 50px;
-    top: 25em;
+    line-height: 55px;
+    top: 22em;
     font-family: var(--raleway);
     left: 8em;
     font-size: 40px;
@@ -9,5 +9,5 @@
 
 .accessibleText{
     position: relative;
-    left: 130px;
+    left: 3.3em;
 }
